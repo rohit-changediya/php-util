@@ -1,5 +1,5 @@
 {
-    "name": "rohtichangediya/php-utils-package",
+    "name": "rohitchangediya/php-utils-package",
     "description": "package to easily build backend application using php.",
     "autoload": {
         "psr-4": {
